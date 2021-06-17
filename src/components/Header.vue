@@ -1,5 +1,5 @@
 <template>
-  <div class="header">
+  <div id="header" class="bg-danger">
   🚀🕺🏽🎶</div>
 </template>
 
@@ -12,7 +12,4 @@ export default {
 </script>
 
 <style scoped>
-p{
-  color:blueviolet;
-}
 </style>

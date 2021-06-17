@@ -1,17 +1,9 @@
 <template>
-  <div class="header">
-    <div>
-      <Header />
-      <div>
-        <Form />
-        <div>
-          <Projects />
-          <div>
-            <Footer />
-          </div>
-        </div>
-      </div>
-    </div>
+  <div class="container-fluid m0 p-0">
+    <Header />
+    <Form />
+    <Projects />
+    <Footer />
   </div>
 </template>
 

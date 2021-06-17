@@ -1,5 +1,5 @@
 <template>
-  <div class="projects">
+  <div id="projects" class="bg-info">
     projects will be here
   </div>
 </template>

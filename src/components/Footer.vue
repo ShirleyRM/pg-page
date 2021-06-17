@@ -1,17 +1,15 @@
 <template>
-  <div class="footer">
-    footer
+  <div id="footer" class="bg-primary">
+    <h1>Welcome</h1>
   </div>
 </template>
 
 <script>
 export default {
   data() {
-
   },
 };
 </script>
 
-<style scoped>
-
+<style lang="scss">
 </style>

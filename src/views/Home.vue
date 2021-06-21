@@ -1,9 +1,9 @@
 <template>
-  <div class="container-fluid m0 p-0">
+  <div class="container-fluid">
     <Header />
-    <Form />
-    <Projects />
-    <Footer />
+        <Form />
+            <Projects />
+                <Footer />
   </div>
 </template>
 
@@ -23,3 +23,7 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+
+</style>

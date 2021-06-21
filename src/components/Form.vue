@@ -1,20 +1,18 @@
 <template>
-  <div id="form" class="landing-form">
-    <div class="container">
+  <div id="form" class="container-fluid">
+        <div class="container">
         <div class="row justify-content-center">
-          <h3 class="row justify-content-center mb-3">Deja tus datos y te contactamos!</h3>
+          <h3 class="row justify-content-center mb-3">Deja tus datos y te llamamos ✌🏽</h3>
             <div class="col-md-4 mb-3">
               <input id="full_name"
               placeholder="Full name"
               type="text"
-              v-model="post.full_name"
               class="form-control">
             </div>
           <div class="col-md-4 mb-3">
             <input id="email"
               placeholder="Example@email.com"
               type="email"
-              v-model="post.email"
               class="form-control">
           </div>
         </div>
@@ -23,21 +21,17 @@
             <input id="phone"
             placeholder="Phone"
             type="number"
-            v-model="post.phone"
             class="form-control">
           </div>
           <div class="col-md-4 mb-3">
             <input type="text"
             placeholder="Company"
             id="company"
-            v-model="post.company"
             class="form-control">
           </div>
-          <div class="col-md-6 mb-3">
-           <textarea
-              placeholder="Déjanos un mensaje"
-              v-model="post.message"
-              class="form-control">
+          <div class="col-md-6 mb-3"><textarea
+            placeholder="Déjanos un mensaje"
+            class="form-control">
             </textarea>
           </div>
           <div class="row justify-content-center">
@@ -51,27 +45,35 @@
 </template>
 
 <script>
-export default {
-  name: 'Form',
-};
+// export default {
+//   name: 'Form',
+// };
 </script>
 
 <style scoped>
-.landing-form{
-  width: 60%;
-  margin: 0 auto;
+.container-fluid{
+  background-image: url('https://storage.googleapis.com/playgroup-web/img/departments/eb-16020916715f7dfa975c7e4.jpg');
+  object-fit: fill;
+  background-color: #801336;
+  padding-top: 15rem;
+  padding-bottom: 2rem;
 }
+
 .container{
-  background-image: url("https://storage.googleapis.com/playgroup-web/img/pages/p-15786004505e178802c3c6d.jpg");
-  padding: 20px;
   border-radius: 10px;
+  border-bottom: 1 px solid #FFA41B;
+  background-color: #f1eeef;
+  width: 50%;
+  max-width: 850px;
+  padding-top: 5rem;
+
 }
 
 h3{
-  color:white;
+  color:#FFA41B;
 }
 #btn-play{
-  color: white;
+  color: #FFA41B;
   font-weight: bold;
   font-size: 1.2em;
   border-radius: 35px;

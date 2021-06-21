@@ -1,0 +1,308 @@
+{
+  "success": true,
+  "data": {
+    "menu": {
+      "social_networks": [
+        {
+          "id": 1,
+          "url": "https://www.facebook.com/PlayGroupLatam",
+          "master_social_network_id": 1,
+          "master_social_networks": {
+            "id": 1,
+            "icon": "facebook",
+            "name": "Facebook"
+          }
+        },
+        {
+          "id": 2,
+          "url": "https://www.linkedin.com/company/play-agencia-publicidad-digital/",
+          "master_social_network_id": 5,
+          "master_social_networks": {
+            "id": 5,
+            "icon": "linkedin",
+            "name": "LinkedIn"
+          }
+        },
+        {
+          "id": 3,
+          "url": "https://www.instagram.com/playgroup.latam/",
+          "master_social_network_id": 6,
+          "master_social_networks": {
+            "id": 6,
+            "icon": "instagram",
+            "name": "Instagram"
+          }
+        },
+        {
+          "id": 4,
+          "url": "https://www.youtube.com/channel/UChGmajA1qdVhfduVk3qg5YQ",
+          "master_social_network_id": 4,
+          "master_social_networks": {
+            "id": 4,
+            "icon": "youtube",
+            "name": "Youtube"
+          }
+        }
+      ],
+      "main": {
+        "title": "PLAY Group",
+        "logo_white": "ew-15785774695e172e3d16797.svg"
+      },
+      "departments": [
+        {
+          "name": "Digital Performance",
+          "slug": "digital-performance",
+          "department_id": 2,
+          "rel_department": {
+            "id": 2,
+            "name": "Digital Performance",
+            "title": "Digital Performance",
+            "logo": "e-15785774905e172e5238fb9.svg",
+            "logo_white": "ew-15785774905e172e5277c1a.svg",
+            "banner": "eb-16020916715f7dfa975c7e4.jpg",
+            "image_menu": "eb-15785984575e178039961a4.png",
+            "excerpt": "Digital  Engineering",
+            "main": 0,
+            "created_at": null,
+            "updated_at": "2020-10-07 07:27:52"
+          }
+        },
+        {
+          "name": "Creativity Hub",
+          "slug": "creativity-hub",
+          "department_id": 3,
+          "rel_department": {
+            "id": 3,
+            "name": "Creativity Hub",
+            "title": "Creativity Hub",
+            "logo": "e-15785775035e172e5f32f8a.svg",
+            "logo_white": "ew-15785775035e172e5f77f43.svg",
+            "banner": "eb-15986469235f496a8b3e8a0.png",
+            "image_menu": "eb-15785984475e17802fe8639.png",
+            "excerpt": "When Real Connection Happens",
+            "main": 0,
+            "created_at": null,
+            "updated_at": "2020-08-28 10:35:23"
+          }
+        },
+        {
+          "name": "Software Factory",
+          "slug": "software-factory",
+          "department_id": 4,
+          "rel_department": {
+            "id": 4,
+            "name": "Software Factory",
+            "title": "Software Factory",
+            "logo": "e-15785775335e172e7d704b4.svg",
+            "logo_white": "ew-15785775335e172e7da5d7f.svg",
+            "banner": "eb-15838694785e67ee26985fc.jpg",
+            "image_menu": "eb-15789368395e1caa077ecfe.png",
+            "excerpt": "Technology Lab of Innovation",
+            "main": 0,
+            "created_at": null,
+            "updated_at": "2020-03-10 09:44:39"
+          }
+        }
+      ],
+      "pages": [
+        {
+          "name": "Inicio",
+          "slug": null
+        },
+        {
+          "name": "Conócenos",
+          "slug": "conocenos"
+        },
+        {
+          "name": "Blog",
+          "slug": "blog"
+        },
+        {
+          "name": "Conversemos",
+          "slug": "conversemos"
+        },
+        {
+          "name": "Trabaja con nosotros",
+          "slug": "trabaja-con-nosotros"
+        }
+      ]
+    },
+    "footer": {
+      "social_networks": [
+        {
+          "id": 1,
+          "url": "https://www.facebook.com/PlayGroupLatam",
+          "master_social_network_id": 1,
+          "master_social_networks": {
+            "id": 1,
+            "icon": "facebook",
+            "name": "Facebook"
+          }
+        },
+        {
+          "id": 2,
+          "url": "https://www.linkedin.com/company/play-agencia-publicidad-digital/",
+          "master_social_network_id": 5,
+          "master_social_networks": {
+            "id": 5,
+            "icon": "linkedin",
+            "name": "LinkedIn"
+          }
+        },
+        {
+          "id": 3,
+          "url": "https://www.instagram.com/playgroup.latam/",
+          "master_social_network_id": 6,
+          "master_social_networks": {
+            "id": 6,
+            "icon": "instagram",
+            "name": "Instagram"
+          }
+        },
+        {
+          "id": 4,
+          "url": "https://www.youtube.com/channel/UChGmajA1qdVhfduVk3qg5YQ",
+          "master_social_network_id": 4,
+          "master_social_networks": {
+            "id": 4,
+            "icon": "youtube",
+            "name": "Youtube"
+          }
+        }
+      ],
+      "main": {
+        "title": "PLAY Group",
+        "logo_white": "ew-15785774695e172e3d16797.svg"
+      },
+      "departments": [
+        {
+          "name": "Digital Performance",
+          "slug": "digital-performance",
+          "department_id": 2,
+          "rel_department": {
+            "id": 2,
+            "name": "Digital Performance",
+            "title": "Digital Performance",
+            "logo": "e-15785774905e172e5238fb9.svg",
+            "logo_white": "ew-15785774905e172e5277c1a.svg",
+            "banner": "eb-16020916715f7dfa975c7e4.jpg",
+            "image_menu": "eb-15785984575e178039961a4.png",
+            "excerpt": "Digital  Engineering",
+            "main": 0,
+            "created_at": null,
+            "updated_at": "2020-10-07 07:27:52"
+          }
+        },
+        {
+          "name": "Creativity Hub",
+          "slug": "creativity-hub",
+          "department_id": 3,
+          "rel_department": {
+            "id": 3,
+            "name": "Creativity Hub",
+            "title": "Creativity Hub",
+            "logo": "e-15785775035e172e5f32f8a.svg",
+            "logo_white": "ew-15785775035e172e5f77f43.svg",
+            "banner": "eb-15986469235f496a8b3e8a0.png",
+            "image_menu": "eb-15785984475e17802fe8639.png",
+            "excerpt": "When Real Connection Happens",
+            "main": 0,
+            "created_at": null,
+            "updated_at": "2020-08-28 10:35:23"
+          }
+        },
+        {
+          "name": "Software Factory",
+          "slug": "software-factory",
+          "department_id": 4,
+          "rel_department": {
+            "id": 4,
+            "name": "Software Factory",
+            "title": "Software Factory",
+            "logo": "e-15785775335e172e7d704b4.svg",
+            "logo_white": "ew-15785775335e172e7da5d7f.svg",
+            "banner": "eb-15838694785e67ee26985fc.jpg",
+            "image_menu": "eb-15789368395e1caa077ecfe.png",
+            "excerpt": "Technology Lab of Innovation",
+            "main": 0,
+            "created_at": null,
+            "updated_at": "2020-03-10 09:44:39"
+          }
+        }
+      ],
+      "information": {
+        "id": 1,
+        "description": "Somos la Agencia Digital #1 en performance.Desarrollamos estrategias de marketing digital que te ayudarán a conectar con tus clientes.",
+        "address_line_1": "Calle Junín 142, Oficina 701",
+        "address_line_2": null,
+        "district": "Miraflores",
+        "phone": "013077848",
+        "cellphone": "955 206 076",
+        "email": "hola@playgroup.pe",
+        "created_at": "2020-01-08 16:22:01",
+        "updated_at": "2021-01-05 14:35:11",
+        "cellphone_formatted": "955 206 076",
+        "phone_formatted": "01013077848"
+      },
+      "pages": [
+        {
+          "name": "Inicio",
+          "slug": null
+        },
+        {
+          "name": "Conócenos",
+          "slug": "conocenos"
+        },
+        {
+          "name": "Blog",
+          "slug": "blog"
+        },
+        {
+          "name": "Conversemos",
+          "slug": "conversemos"
+        },
+        {
+          "name": "Trabaja con nosotros",
+          "slug": "trabaja-con-nosotros"
+        }
+      ],
+      "partners": [
+        {
+          "image": "p-16062755055fbdd1b1d77a4.png",
+          "name": "CCL"
+        },
+        {
+          "image": "p-15785470055e16b73d53349.png",
+          "name": "IAB Perú"
+        },
+        {
+          "image": "p-15937096855efe147514eb0.png",
+          "name": "Google Partner"
+        }
+      ]
+    },
+    "form": {
+      "medium": [
+        {
+          "id": "5e168cc829d84",
+          "name": "Llamada",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": "5e168cc829d87",
+          "name": "Correo Electrónico",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": "5e168cc829d88",
+          "name": "Whatsapp",
+          "created_at": null,
+          "updated_at": null
+        }
+      ]
+    }
+  },
+  "message": null
+}

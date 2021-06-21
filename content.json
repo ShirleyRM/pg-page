@@ -1,0 +1,302 @@
+{
+    "success": true,
+    "data": {
+      "page": {
+        "id": 4,
+        "title": "Software Factory - Technology Lab of Innovation",
+        "seo_description": "Aterrizamos toda la tecnología disponible al servicio de tus objetivos. Desarrollo de websites, apps, integración de sistemas, CRM, ChatBots.",
+        "seo_keywords": "diseño de paginas web, desarrollo, creación landing, programacion websites, programador web, paginas web, responsive ,chatbots aplicaciones, apps, app, crm, sistemas integrados, integraciones administradores",
+        "seo_image": "p-15791978445e20a59483fab.jpg",
+        "slug": "software-factory"
+      },
+      "department": {
+        "id": 4,
+        "name": "Software Factory",
+        "title": "Software Factory",
+        "logo": "e-15785775335e172e7d704b4.svg",
+        "logo_white": "ew-15785775335e172e7da5d7f.svg",
+        "banner": "eb-15838694785e67ee26985fc.jpg",
+        "image_menu": "eb-15789368395e1caa077ecfe.png",
+        "excerpt": "Technology Lab of Innovation",
+        "main": 0,
+        "created_at": null,
+        "updated_at": "2020-03-10 09:44:39"
+      },
+      "content": [
+        {
+          "id": 28,
+          "name": "Banner",
+          "master_page_id": 4,
+          "content_formatted": [
+            "background",
+            "image"
+          ],
+          "content": [
+            {
+              "id": 47,
+              "master_section_id": 28,
+              "field": "background",
+              "value": "p-15786053685e179b3846d59.jpg"
+            },
+            {
+              "id": 48,
+              "master_section_id": 28,
+              "field": "image",
+              "value": "p-15786053685e179b38a72bb.png"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Qué hacemos?",
+          "master_page_id": 4,
+          "content_formatted": [
+            "title",
+            "description",
+            "image"
+          ],
+          "content": [
+            {
+              "id": 125,
+              "master_section_id": 29,
+              "field": "title",
+              "value": "PLAY Lab"
+            },
+            {
+              "id": 126,
+              "master_section_id": 29,
+              "field": "description",
+              "value": "<h3 class=\"ql-align-center\"><strong>Desarrollo e innovación</strong></h3><p class=\"ql-align-center\">Creamos Websites, Bots, Integramos Sistemas y Optimizamos toda la tecnología disponible al servicio de tu marca.</p><p><br></p>"
+            },
+            {
+              "id": 127,
+              "master_section_id": 29,
+              "field": "image",
+              "value": "p-15789541635e1cedb3a619c.png"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Casos de Éxito",
+          "master_page_id": 4,
+          "content_formatted": [
+            "title"
+          ],
+          "content": [
+            {
+              "id": 73,
+              "master_section_id": 30,
+              "field": "title",
+              "value": "Casos de éxito "
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "name": "Clientes",
+          "master_page_id": 4,
+          "content_formatted": [
+            "image",
+            "title",
+            "image_responsive"
+          ],
+          "content": [
+            {
+              "id": 348,
+              "master_section_id": 31,
+              "field": "image",
+              "value": "p-1616706352605cfb309d628.png"
+            },
+            {
+              "id": 349,
+              "master_section_id": 31,
+              "field": "title",
+              "value": "Clientes Software Factory"
+            },
+            {
+              "id": 350,
+              "master_section_id": 31,
+              "field": "image_responsive",
+              "value": "p-1616708267605d02abdff12.png"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "name": "Contáctenos",
+          "master_page_id": 4,
+          "content_formatted": [
+            "image",
+            "background",
+            "title",
+            "description",
+            "speech"
+          ],
+          "content": [
+            {
+              "id": 138,
+              "master_section_id": 32,
+              "field": "image",
+              "value": "p-15789580225e1cfcc65f6af.png"
+            },
+            {
+              "id": 225,
+              "master_section_id": 32,
+              "field": "background",
+              "value": "p-15838688755e67ebcb5ae65.jpg"
+            },
+            {
+              "id": 271,
+              "master_section_id": 32,
+              "field": "title",
+              "value": "Descubre lo que podemos hacer por ti"
+            },
+            {
+              "id": 272,
+              "master_section_id": 32,
+              "field": "description",
+              "value": "<p class=\"ql-align-center\">Reunámonos virtualmente. No habrá galletas ni estacionamiento pero lo compensamos con buena vibra.</p>"
+            },
+            {
+              "id": 273,
+              "master_section_id": 32,
+              "field": "speech",
+              "value": "¡Innovemos juntos!"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "name": "Frase",
+          "master_page_id": 4,
+          "content_formatted": [
+            "title"
+          ],
+          "content": [
+            {
+              "id": 197,
+              "master_section_id": 39,
+              "field": "title",
+              "value": "Agencia Tech, Líder en Innovación e IA"
+            }
+          ]
+        }
+      ],
+      "success_stories": {
+        "current_page": 1,
+        "data": [
+          {
+            "id": 48,
+            "title": "Cyberdays",
+            "description": "ChatBot WhatsApp",
+            "logo": "ssl-15978686925f3d8a9461201.png",
+            "image": "ssi-15978686925f3d8a94a0fba.png",
+            "department_id": 4,
+            "index": 1,
+            "created_at": "2020-08-19 10:24:52",
+            "updated_at": "2020-08-19 10:26:52"
+          },
+          {
+            "id": 47,
+            "title": "WOBI",
+            "description": "Landing Page",
+            "logo": "ssl-15977696675f3c07c399f27.png",
+            "image": "ssi-15977696675f3c07c3e2837.png",
+            "department_id": 4,
+            "index": 2,
+            "created_at": "2020-08-18 06:54:28",
+            "updated_at": "2020-08-25 12:10:23"
+          },
+          {
+            "id": 34,
+            "title": "Ritz",
+            "description": "Website #RitzFluencers",
+            "logo": "ssl-15789547375e1ceff132303.png",
+            "image": "ssi-15789547375e1ceff181b39.png",
+            "department_id": 4,
+            "index": 3,
+            "created_at": "2020-01-13 12:32:17",
+            "updated_at": "2020-08-25 12:10:23"
+          },
+          {
+            "id": 36,
+            "title": "Futura Schools",
+            "description": "Website & Landing Page",
+            "logo": "ssl-15792709045e21c2f87af16.png",
+            "image": "ssi-15792709045e21c2f8f22f3.png",
+            "department_id": 4,
+            "index": 4,
+            "created_at": "2020-01-17 04:21:45",
+            "updated_at": "2020-08-25 12:10:40"
+          },
+          {
+            "id": 38,
+            "title": "Grupo Lar Perú",
+            "description": "ChatBot Messenger",
+            "logo": "ssl-15792940275e221d4b48c55.png",
+            "image": "ssi-15792940275e221d4b8f932.png",
+            "department_id": 4,
+            "index": 5,
+            "created_at": "2020-01-17 10:47:07",
+            "updated_at": "2020-08-25 12:10:40"
+          },
+          {
+            "id": 1,
+            "title": "CyberDays",
+            "description": "Website",
+            "logo": "ssl-15786126775e17b7c525fa8.png",
+            "image": "ssi-15786126775e17b7c566560.jpg",
+            "department_id": 4,
+            "index": 6,
+            "created_at": "2020-01-09 13:31:17",
+            "updated_at": "2020-08-25 12:10:40"
+          },
+          {
+            "id": 49,
+            "title": "Norma",
+            "description": "Página web",
+            "logo": "ssl-15984624925f469a1cbe8d8.png",
+            "image": "ssi-15984624935f469a1db6af1.png",
+            "department_id": 4,
+            "index": 7,
+            "created_at": "2020-08-26 07:21:34",
+            "updated_at": "2020-08-26 07:22:16"
+          },
+          {
+            "id": 37,
+            "title": "Lider Grupo Constructor",
+            "description": "Landing Page",
+            "logo": "ssl-15792709595e21c32f22656.png",
+            "image": "ssi-15792709595e21c32f64499.png",
+            "department_id": 4,
+            "index": 8,
+            "created_at": "2020-01-17 04:22:39",
+            "updated_at": "2020-08-26 07:22:16"
+          },
+          {
+            "id": 46,
+            "title": "Sazón Lopesa",
+            "description": "Website",
+            "logo": "ssl-15977656105f3bf7ea14a4b.png",
+            "image": "ssi-15977656105f3bf7ea66f4d.png",
+            "department_id": 4,
+            "index": 9,
+            "created_at": "2020-08-18 05:46:50",
+            "updated_at": "2020-08-26 07:22:16"
+          }
+        ],
+        "first_page_url": "https://test.playgroup.pe/api/page/department/software-factory?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://test.playgroup.pe/api/page/department/software-factory?page=1",
+        "next_page_url": null,
+        "path": "https://test.playgroup.pe/api/page/department/software-factory",
+        "per_page": 9,
+        "prev_page_url": null,
+        "to": 9,
+        "total": 9
+      }
+    },
+    "message": null
+  }

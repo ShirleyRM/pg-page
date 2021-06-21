@@ -7,14 +7,15 @@
 </template>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
 #app{
-  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
+  width: 100%;
+}
+.container-fluid{
   margin: 0;
   padding: 0;
-  font-family: 'Noto Sans', sans-serif;
 }
-
 h3{
   font-weight: bold;
 }

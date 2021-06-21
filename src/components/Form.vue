@@ -1,5 +1,11 @@
 <template>
   <div id="form" class="container-fluid">
+      <div class="row col-5">
+        <div class="img-fluid">
+        <img src=""
+        alt="" srcset="">
+      </div>
+      </div>
         <div class="container">
         <div class="row justify-content-center">
           <h3 class="row justify-content-center mb-3">Deja tus datos y te llamamos ✌🏽</h3>
@@ -52,25 +58,24 @@
 
 <style scoped>
 .container-fluid{
-  background-image: url('https://storage.googleapis.com/playgroup-web/img/departments/eb-16020916715f7dfa975c7e4.jpg');
-  object-fit: fill;
+  background-image: url('https://storage.googleapis.com/playgroup-web/img/departments/eb-15838694785e67ee26985fc.jpg');
   background-color: #801336;
-  padding-top: 15rem;
-  padding-bottom: 2rem;
+  padding-top: 10rem;
 }
 
 .container{
   border-radius: 10px;
   border-bottom: 1 px solid #FFA41B;
-  background-color: #f1eeef;
-  width: 50%;
+  background-color: #f5f5f5e3;
+  width: 60%;
   max-width: 850px;
   padding-top: 5rem;
-
-}
+  margin-right: 5px;
+  }
 
 h3{
   color:#FFA41B;
+  border-bottom: #FFA41B;
 }
 #btn-play{
   color: #FFA41B;
